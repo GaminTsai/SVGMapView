@@ -6,4 +6,4 @@
 5. 重写OnTouchEvent方法，记录手指触摸位置，判断这个位置是否坐落在某个省份上
 6. 使用 PathMeasure 与 ValueAnimator实现小蛇绕着城市跑的动画效果
 
-<img src="file://readme_resource/taiwan.gif"/>
+![](https://github.com/GaminTsai/SVGMapView/blob/master/readme_resource/taiwan.gif)
