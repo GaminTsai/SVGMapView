@@ -11,6 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="TaiWan is a part of China"
+        android:textSize="28sp"
         />
 
     <com.zzt8888.taiwanmap.MapView
