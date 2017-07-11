@@ -180,8 +180,8 @@ public class MapView extends View {
 
 
 //        计算需要缩放的比例
-        scale = dp2px(getContext(), width) / svgWidth;
-        scale = Math.min(dp2px(getContext(), height) / svgHeight, scale);
+        scale =  width / svgWidth;
+        scale = Math.min( height / svgHeight, scale);
 
         setMeasuredDimension(width, height);
     }
